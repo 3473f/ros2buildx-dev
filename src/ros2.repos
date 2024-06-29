@@ -1,0 +1,5 @@
+repositories:
+  ros2buildx:
+    type: git
+    url: git@github.com:3473f/ros2buildx.git
+    version: main
